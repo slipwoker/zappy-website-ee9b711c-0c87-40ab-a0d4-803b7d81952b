@@ -1,0 +1,49 @@
+# בני הממליץ — Generative Engine Optimization Map
+
+> A free sports recommendations group called 'Beni HaMemalitz' (Beni the Recommender), boasting an impressive 87% success rate in the last month. The brand is built on trust, credibility, and results — positioning itself as a reliable tipster community. The primary call-to-action is a WhatsApp group join link, making it a community-driven, accessible service.
+
+---
+
+## Pages
+
+### בית
+https://-ee9b711c.zappy5.app
+A free sports recommendations group called &#39;Beni HaMemalitz&#39; (Beni the Recommender), boasting an impressive 87% success rate in the last month. The brand is bui
+
+## Legal & Policy
+
+### Privacy Policy
+https://-ee9b711c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-ee9b711c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-ee9b711c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בני הממליץ
+A free sports recommendations group called 'Beni HaMemalitz' (Beni the Recommender), boasting an impressive 87% success rate in the last month. The brand is built on trust, credibility, and results — positioning itself as a reliable tipster community. The primary call-to-action is a WhatsApp group join link, making it a community-driven, accessible service.
+
+## Services/Products
+- המלצות ספורט בחינם
+- קישור הצטרפות לקבוצת וואטסאפ
+
+## Target Audience
+אנשים המעוניינים בהמלצות ספורט
+
+## Industry
+ספורט / הימורי ספורט
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-ee9b711c.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-ee9b711c.zappy5.app/robots.txt
